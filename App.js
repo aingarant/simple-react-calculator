@@ -9,7 +9,7 @@ import ResultDisplay from './components/ResultDisplay';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.titleHeader}>Simple Calcualtor</Text>
+      <Text style={styles.titleHeader}>Simple Calculator</Text>
       <BillTotalForm />
 
       <PersonsSlider />

@@ -5,6 +5,7 @@ const PreTaxToggle = () => {
   return (
     <View>
       <Switch />
+      <Text>Pre-Tax</Text>
     </View>
   )
 }
